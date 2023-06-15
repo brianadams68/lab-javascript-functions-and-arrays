@@ -174,7 +174,7 @@ Calculating an average is a prevalent task. So let's practice it a bit.
 **The logic behind this:**
 
 1. Find the sum as we did in the first exercise (or how about reusing the function `sumNumbers()`?)
-2. Divide that sum by the number of elements in the array.
+2. Divide sum by the number of elements in the array.
 
 <br>
 
